@@ -1,0 +1,1 @@
+This folder is a assets folder that contains CSS file of calculator
